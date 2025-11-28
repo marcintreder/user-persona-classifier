@@ -68,7 +68,7 @@ A major finding of this project is **Platform Independence**.
 * **Seaborn & Matplotlib:** Data visualization.
 * **Google Colab:** Development environment.
 
-## 🚀 How to Run
+## How to Run
 1.  Clone the repository:
     ```bash
     git clone [https://github.com/YOUR_USERNAME/mobile-user-behavior-segmentation.git](https://github.com/YOUR_USERNAME/mobile-user-behavior-segmentation.git)
